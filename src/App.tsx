@@ -130,7 +130,7 @@ export default function App() {
       `Bismillah, saya telah menyalurkan donasi. Mohon berkenan didoakan oleh para santri dan asatidzah. Terima kasih!`;
 
     const encoded = encodeURIComponent(msg);
-    window.open(`https://wa.me/6282293827200?text=${encoded}`, '_blank');
+    window.open(`https://wa.me/6283134086899?text=${encoded}`, '_blank');
   };
 
   return (
